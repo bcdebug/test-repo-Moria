@@ -1,0 +1,8 @@
+{
+  "name": "test-licenses",
+  "version": "1.0.0",
+  "dependencies": {
+    "serialize-javascript": "6.0.0",
+  },
+  "license": "UNLICENSED"
+}
